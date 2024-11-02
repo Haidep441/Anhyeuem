@@ -11,7 +11,7 @@ end
 game.StarterGui:SetCore(
     "SendNotification",
     {
-        Title = "Turbo Lite",
+        Title = "HaiDepZai hub",
         Text = "Đang Tải",
         Duration = 5
     })
@@ -35,7 +35,7 @@ function AdminLoggerMsg()
     local AdminMessage = {
         ["embeds"] = {
             {
-                ["title"] = "**Script Turbo Lite - Farm**",
+                ["title"] = "**Script HaiDepZai - Farm**",
                 ["description"] = "",
                 ["type"] = "rich",
                 ["color"] = randomColor, 
@@ -89,8 +89,8 @@ local fask = task
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "Turbo Lite Hub",
-    SubTitle = "Hello World!",
+    Title = "HaiDepZai hub",
+    SubTitle = "PREMIUM by HaiDepZai",
     TabWidth = 110,
     Size = UDim2.fromOffset(480, 320),
     Acrylic = false,
@@ -4913,7 +4913,7 @@ end
 game.StarterGui:SetCore(
     "SendNotification",
     {
-        Title = "Turbo Lite",
+        Title = "HaiDepZai hub",
         Text = "Đã Tải Xong",
         Duration = 1
     })
