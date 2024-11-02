@@ -1378,20 +1378,20 @@ function GetDistance(q)
 end
 
 ---------------SettingTab
-Tabs.infor:AddSection("Nhóm Discord Của Tớ ~")
+Tabs.infor:AddSection("Nhóm Discord Của haidepzai~")
 Tabs.infor:AddButton({
-        Title = "Tham Gia Nhóm | Turbo Lite Và Các Bạn",
-        Description = "https://discord.gg/zKA8VNHzME | Sao Chép Link",
+        Title = "Tham Gia Nhóm | HaiDepzai",
+        Description = "https://discord.gg/hup| Sao Chép Link",
         Callback = function()
-        setclipboard("https://discord.gg/zKA8VNHzME | Sao Chép Link")
+        setclipboard("https://discord.gg/hup| Sao Chép Link")
         end
     })
-    Tabs.infor:AddSection("Kênh YouTube Của Tớ ~")
+    Tabs.infor:AddSection("Kênh YouTube Của HaiDepZai~")
 Tabs.infor:AddButton({
-        Title = "Đăng Ký Kênh Của Tớ Với Nha :>>",
-        Description = "https://youtube.com/@turboxlite | Turbo Lite",
+        Title = "Đăng Ký Kênh Của TVới Nha :>>",
+        Description = "https://youtube.com/@sap co| Turbo Lite",
         Callback = function()
-        setclipboard("YouTube: Turbo Lite")
+        setclipboard("YouTube: HaiDepZai")
         end
     })
 ---------------TabStatus
