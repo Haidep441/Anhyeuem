@@ -11,7 +11,7 @@ end
 game.StarterGui:SetCore(
     "SendNotification",
     {
-        Title = "anh yêu em Hub",
+        Title = "HaiDepZai Hub",
         Text = "Đang Tải",
         Icon = "rbxthumb://type=Asset&id=72164408329767&w=150&h=150",
         Duration = 4
@@ -2313,9 +2313,9 @@ local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/
 local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 local Window = Fluent:CreateWindow({
-    Title = "Turbo Lite Hub | Blox Fruit 21",
-    SubTitle = "By YTB Turbo Lite",
-    TabWidth = 110,
+    Title = "HaiDepZai Hub[PREMIUM]",
+    SubTitle = "By ytb haidzuuuu",
+    TabWidth = 80,
     Size = UDim2.fromOffset(480, 320),
     Acrylic = false, -- The blur may be detectable, setting this to false disables blur entirely
     Theme = "Darker",
@@ -2370,10 +2370,10 @@ do
 Window:SelectTab(1)
 Tabs.infor:AddSection("Nhóm Discord Của Tớ >w<")
 Tabs.infor:AddButton({
-        Title = "Server Turbo Lite Hub | Copy Link",
-        Description = "https://discord.gg/zKA8VNHzME",
+        Title = "Server HaiDepZai Hub | Copy Link",
+        Description = "https://discord.gg/sắp có",
         Callback = function()
-        setclipboard("https://discord.gg/zKA8VNHzME")
+        setclipboard("https://discord.gg/sắp có")
         end
     })
     
@@ -7580,8 +7580,8 @@ spawn(function()
 game.StarterGui:SetCore(
     "SendNotification",
     {
-        Title = "anh yêu em Hub",
+        Title = "HaiDepZai Hub",
         Text = "Đã Tải Xong",
-        Icon = "rbxthumb://type=Asset&id=72164408329767&w=150&h=150",
+        Icon = "rbxthumb://type=Asset&id=70472011124041&w=150&h=150",
         Duration = 1
     })
